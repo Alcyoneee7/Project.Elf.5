@@ -3,7 +3,7 @@ My Fifth Data Analyst Project.
 
 In this project, I scrap data from website and analyze it in Excel. The result is in Excel.
 
-thats it.
+Thats it.
 
 
 
